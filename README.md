@@ -1,1 +1,1 @@
-# review-practice-Mark_Zakharyan
+# Репозиторий для практики
